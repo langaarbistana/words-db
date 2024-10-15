@@ -108,5 +108,8 @@
     "person": "persona",
     "what": "wha",
     "god": "john",
-    "general": "generala"
+    "general": "generala",
+    "admin": "administro",
+    "administrator": "administro",
+    "moderator": "modo"
 }
