@@ -177,5 +177,7 @@
     "main": "prinsip",
     "diet": "daeta",
     "project": "projekt",
-    "status": "stat"
+    "status": "stat",
+    "maintained": "manta",
+    "unmaintained": "na manta"
 }
