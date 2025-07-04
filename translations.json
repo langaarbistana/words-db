@@ -119,7 +119,7 @@
     "brothership": "fraterna",
     "brotherhood": "fraterna",
     "eternity": "eternida",
-    "land": "terra",
+    "land": "tera",
     "innovation": "inova",
     "where": "wher",
     "code": "kodea",
@@ -192,5 +192,14 @@
     "mister": "mizte",
     "miss": "mizta",
     "big": "ge",
-    "slengish": "slenga"
+    "slengish": "slenga",
+    "france": "franktera",
+    "french": "fransa",
+    "england": "anglitera",
+    "english": "anglia",
+    "angle": "polangl",
+    "poland": "politera",
+    "polish": "polia",
+    "germany": "dothtera",
+    "german": "dotha"
 }
