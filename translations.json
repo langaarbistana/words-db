@@ -89,7 +89,7 @@
     "to": "en",
     "official": "offisio",
     "an": "a",
-    "easy": "easy",
+    "easy": "fasel",
     "everyone": "evemonde",
     "every": "eve",
     "all": "eve",
@@ -191,5 +191,6 @@
     "cube": "kub",
     "mister": "mizte",
     "miss": "mizta",
-    "big": "ge"
+    "big": "ge",
+    "slengish": "slenga"
 }
